@@ -228,10 +228,8 @@ class Landing extends React.Component {
               </Row>
             </Container>
           </section>
-          
-          <Download />
         </main>
-        <CardsFooter />
+        
       </>
     );
   }
